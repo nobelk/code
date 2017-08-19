@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\StackList\bin\Debug\netcoreapp1.1\StackList.deps.json
+c:\Users\nobel\Documents\Code\StackList\bin\Debug\netcoreapp1.1\StackList.runtimeconfig.json
+c:\Users\nobel\Documents\Code\StackList\bin\Debug\netcoreapp1.1\StackList.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\StackList\bin\Debug\netcoreapp1.1\StackList.dll
+c:\Users\nobel\Documents\Code\StackList\bin\Debug\netcoreapp1.1\StackList.pdb
+c:\Users\nobel\Documents\Code\StackList\obj\Debug\netcoreapp1.1\StackList.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\StackList\obj\Debug\netcoreapp1.1\StackList.dll
+c:\Users\nobel\Documents\Code\StackList\obj\Debug\netcoreapp1.1\StackList.pdb

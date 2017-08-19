@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\TwoNumberSum\bin\Debug\netcoreapp1.1\TwoNumberSum.deps.json
+c:\Users\nobel\Documents\Code\TwoNumberSum\bin\Debug\netcoreapp1.1\TwoNumberSum.runtimeconfig.json
+c:\Users\nobel\Documents\Code\TwoNumberSum\bin\Debug\netcoreapp1.1\TwoNumberSum.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\TwoNumberSum\bin\Debug\netcoreapp1.1\TwoNumberSum.dll
+c:\Users\nobel\Documents\Code\TwoNumberSum\bin\Debug\netcoreapp1.1\TwoNumberSum.pdb
+c:\Users\nobel\Documents\Code\TwoNumberSum\obj\Debug\netcoreapp1.1\TwoNumberSum.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\TwoNumberSum\obj\Debug\netcoreapp1.1\TwoNumberSum.dll
+c:\Users\nobel\Documents\Code\TwoNumberSum\obj\Debug\netcoreapp1.1\TwoNumberSum.pdb

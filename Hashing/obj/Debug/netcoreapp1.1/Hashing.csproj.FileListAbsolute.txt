@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\code\Hashing\bin\Debug\netcoreapp1.1\Hashing.deps.json
+c:\Users\nobel\Documents\code\Hashing\bin\Debug\netcoreapp1.1\Hashing.runtimeconfig.json
+c:\Users\nobel\Documents\code\Hashing\bin\Debug\netcoreapp1.1\Hashing.runtimeconfig.dev.json
+c:\Users\nobel\Documents\code\Hashing\bin\Debug\netcoreapp1.1\Hashing.dll
+c:\Users\nobel\Documents\code\Hashing\bin\Debug\netcoreapp1.1\Hashing.pdb
+c:\Users\nobel\Documents\code\Hashing\obj\Debug\netcoreapp1.1\Hashing.AssemblyInfo.cs
+c:\Users\nobel\Documents\code\Hashing\obj\Debug\netcoreapp1.1\Hashing.dll
+c:\Users\nobel\Documents\code\Hashing\obj\Debug\netcoreapp1.1\Hashing.pdb

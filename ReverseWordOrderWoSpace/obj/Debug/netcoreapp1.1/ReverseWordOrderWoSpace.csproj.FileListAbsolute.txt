@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\bin\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.deps.json
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\bin\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.runtimeconfig.json
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\bin\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\bin\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.dll
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\bin\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.pdb
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\obj\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\obj\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.dll
+c:\Users\nobel\Documents\Code\ReverseWordOrderWoSpace\obj\Debug\netcoreapp1.1\ReverseWordOrderWoSpace.pdb

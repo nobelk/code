@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\InsertionSort\bin\Debug\netcoreapp1.1\InsertionSort.deps.json
+c:\Users\nobel\Documents\Code\InsertionSort\bin\Debug\netcoreapp1.1\InsertionSort.runtimeconfig.json
+c:\Users\nobel\Documents\Code\InsertionSort\bin\Debug\netcoreapp1.1\InsertionSort.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\InsertionSort\bin\Debug\netcoreapp1.1\InsertionSort.dll
+c:\Users\nobel\Documents\Code\InsertionSort\bin\Debug\netcoreapp1.1\InsertionSort.pdb
+c:\Users\nobel\Documents\Code\InsertionSort\obj\Debug\netcoreapp1.1\InsertionSort.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\InsertionSort\obj\Debug\netcoreapp1.1\InsertionSort.dll
+c:\Users\nobel\Documents\Code\InsertionSort\obj\Debug\netcoreapp1.1\InsertionSort.pdb
