@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\BubbleSort\bin\Debug\netcoreapp1.1\BubbleSort.deps.json
+c:\Users\nobel\Documents\Code\BubbleSort\bin\Debug\netcoreapp1.1\BubbleSort.runtimeconfig.json
+c:\Users\nobel\Documents\Code\BubbleSort\bin\Debug\netcoreapp1.1\BubbleSort.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\BubbleSort\bin\Debug\netcoreapp1.1\BubbleSort.dll
+c:\Users\nobel\Documents\Code\BubbleSort\bin\Debug\netcoreapp1.1\BubbleSort.pdb
+c:\Users\nobel\Documents\Code\BubbleSort\obj\Debug\netcoreapp1.1\BubbleSort.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\BubbleSort\obj\Debug\netcoreapp1.1\BubbleSort.dll
+c:\Users\nobel\Documents\Code\BubbleSort\obj\Debug\netcoreapp1.1\BubbleSort.pdb

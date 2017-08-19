@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\StackArray\bin\Debug\netcoreapp1.1\StackArray.deps.json
+c:\Users\nobel\Documents\Code\StackArray\bin\Debug\netcoreapp1.1\StackArray.runtimeconfig.json
+c:\Users\nobel\Documents\Code\StackArray\bin\Debug\netcoreapp1.1\StackArray.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\StackArray\obj\Debug\netcoreapp1.1\StackArray.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\StackArray\bin\Debug\netcoreapp1.1\StackArray.dll
+c:\Users\nobel\Documents\Code\StackArray\bin\Debug\netcoreapp1.1\StackArray.pdb
+c:\Users\nobel\Documents\Code\StackArray\obj\Debug\netcoreapp1.1\StackArray.dll
+c:\Users\nobel\Documents\Code\StackArray\obj\Debug\netcoreapp1.1\StackArray.pdb

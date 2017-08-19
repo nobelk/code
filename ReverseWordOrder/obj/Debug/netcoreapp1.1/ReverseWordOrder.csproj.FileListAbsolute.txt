@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\ReverseWordOrder\bin\Debug\netcoreapp1.1\ReverseWordOrder.deps.json
+c:\Users\nobel\Documents\Code\ReverseWordOrder\bin\Debug\netcoreapp1.1\ReverseWordOrder.runtimeconfig.json
+c:\Users\nobel\Documents\Code\ReverseWordOrder\bin\Debug\netcoreapp1.1\ReverseWordOrder.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\ReverseWordOrder\bin\Debug\netcoreapp1.1\ReverseWordOrder.dll
+c:\Users\nobel\Documents\Code\ReverseWordOrder\bin\Debug\netcoreapp1.1\ReverseWordOrder.pdb
+c:\Users\nobel\Documents\Code\ReverseWordOrder\obj\Debug\netcoreapp1.1\ReverseWordOrder.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\ReverseWordOrder\obj\Debug\netcoreapp1.1\ReverseWordOrder.dll
+c:\Users\nobel\Documents\Code\ReverseWordOrder\obj\Debug\netcoreapp1.1\ReverseWordOrder.pdb
