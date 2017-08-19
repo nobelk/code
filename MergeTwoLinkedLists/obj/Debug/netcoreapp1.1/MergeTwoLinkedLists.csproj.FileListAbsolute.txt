@@ -1,0 +1,8 @@
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\bin\Debug\netcoreapp1.1\MergeTwoLinkedLists.deps.json
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\bin\Debug\netcoreapp1.1\MergeTwoLinkedLists.runtimeconfig.json
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\bin\Debug\netcoreapp1.1\MergeTwoLinkedLists.runtimeconfig.dev.json
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\bin\Debug\netcoreapp1.1\MergeTwoLinkedLists.dll
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\bin\Debug\netcoreapp1.1\MergeTwoLinkedLists.pdb
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\obj\Debug\netcoreapp1.1\MergeTwoLinkedLists.AssemblyInfo.cs
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\obj\Debug\netcoreapp1.1\MergeTwoLinkedLists.dll
+c:\Users\nobel\documents\Code\MergeTwoLinkedLists\obj\Debug\netcoreapp1.1\MergeTwoLinkedLists.pdb

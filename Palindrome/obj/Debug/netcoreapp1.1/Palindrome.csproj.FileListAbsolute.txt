@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\Palindrome\bin\Debug\netcoreapp1.1\Palindrome.deps.json
+c:\Users\nobel\Documents\Code\Palindrome\bin\Debug\netcoreapp1.1\Palindrome.runtimeconfig.json
+c:\Users\nobel\Documents\Code\Palindrome\bin\Debug\netcoreapp1.1\Palindrome.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\Palindrome\obj\Debug\netcoreapp1.1\Palindrome.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\Palindrome\bin\Debug\netcoreapp1.1\Palindrome.dll
+c:\Users\nobel\Documents\Code\Palindrome\bin\Debug\netcoreapp1.1\Palindrome.pdb
+c:\Users\nobel\Documents\Code\Palindrome\obj\Debug\netcoreapp1.1\Palindrome.dll
+c:\Users\nobel\Documents\Code\Palindrome\obj\Debug\netcoreapp1.1\Palindrome.pdb

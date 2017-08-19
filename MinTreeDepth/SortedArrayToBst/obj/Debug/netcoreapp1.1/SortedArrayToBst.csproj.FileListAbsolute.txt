@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\bin\Debug\netcoreapp1.1\SortedArrayToBst.deps.json
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\bin\Debug\netcoreapp1.1\SortedArrayToBst.runtimeconfig.json
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\bin\Debug\netcoreapp1.1\SortedArrayToBst.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\bin\Debug\netcoreapp1.1\SortedArrayToBst.dll
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\bin\Debug\netcoreapp1.1\SortedArrayToBst.pdb
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\obj\Debug\netcoreapp1.1\SortedArrayToBst.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\obj\Debug\netcoreapp1.1\SortedArrayToBst.dll
+c:\Users\nobel\Documents\Code\MinTreeDepth\SortedArrayToBst\obj\Debug\netcoreapp1.1\SortedArrayToBst.pdb

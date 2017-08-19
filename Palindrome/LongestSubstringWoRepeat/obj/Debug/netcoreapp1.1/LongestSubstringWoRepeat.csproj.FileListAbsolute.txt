@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\bin\Debug\netcoreapp1.1\LongestSubstringWoRepeat.deps.json
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\bin\Debug\netcoreapp1.1\LongestSubstringWoRepeat.runtimeconfig.json
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\bin\Debug\netcoreapp1.1\LongestSubstringWoRepeat.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\bin\Debug\netcoreapp1.1\LongestSubstringWoRepeat.dll
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\bin\Debug\netcoreapp1.1\LongestSubstringWoRepeat.pdb
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\obj\Debug\netcoreapp1.1\LongestSubstringWoRepeat.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\obj\Debug\netcoreapp1.1\LongestSubstringWoRepeat.dll
+c:\Users\nobel\Documents\Code\Palindrome\LongestSubstringWoRepeat\obj\Debug\netcoreapp1.1\LongestSubstringWoRepeat.pdb

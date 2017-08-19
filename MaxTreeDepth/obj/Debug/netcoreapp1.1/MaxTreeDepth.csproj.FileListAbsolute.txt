@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\MaxTreeDepth\bin\Debug\netcoreapp1.1\MaxTreeDepth.deps.json
+c:\Users\nobel\Documents\Code\MaxTreeDepth\bin\Debug\netcoreapp1.1\MaxTreeDepth.runtimeconfig.json
+c:\Users\nobel\Documents\Code\MaxTreeDepth\bin\Debug\netcoreapp1.1\MaxTreeDepth.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\MaxTreeDepth\bin\Debug\netcoreapp1.1\MaxTreeDepth.dll
+c:\Users\nobel\Documents\Code\MaxTreeDepth\bin\Debug\netcoreapp1.1\MaxTreeDepth.pdb
+c:\Users\nobel\Documents\Code\MaxTreeDepth\obj\Debug\netcoreapp1.1\MaxTreeDepth.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\MaxTreeDepth\obj\Debug\netcoreapp1.1\MaxTreeDepth.dll
+c:\Users\nobel\Documents\Code\MaxTreeDepth\obj\Debug\netcoreapp1.1\MaxTreeDepth.pdb
