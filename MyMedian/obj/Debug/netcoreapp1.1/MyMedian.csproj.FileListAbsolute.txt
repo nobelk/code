@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\MyMedian\bin\Debug\netcoreapp1.1\MyMedian.deps.json
+c:\Users\nobel\Documents\Code\MyMedian\bin\Debug\netcoreapp1.1\MyMedian.runtimeconfig.json
+c:\Users\nobel\Documents\Code\MyMedian\bin\Debug\netcoreapp1.1\MyMedian.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\MyMedian\bin\Debug\netcoreapp1.1\MyMedian.dll
+c:\Users\nobel\Documents\Code\MyMedian\bin\Debug\netcoreapp1.1\MyMedian.pdb
+c:\Users\nobel\Documents\Code\MyMedian\obj\Debug\netcoreapp1.1\MyMedian.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\MyMedian\obj\Debug\netcoreapp1.1\MyMedian.dll
+c:\Users\nobel\Documents\Code\MyMedian\obj\Debug\netcoreapp1.1\MyMedian.pdb
