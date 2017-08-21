@@ -48,7 +48,8 @@ namespace AllPairShortestPath
                 }
             }
 
-
+            /** Mistake 1: use multidimesional array as x[i,j] */
+            /** Mistake 2: while calculating shortest paths, initialize and always use the new adjacency matrix NOT original matrix */
             for(int k=0; k<this.vertices.Length; k++)
             {
                 for(int i=0; i<this.vertices.Length; i++)
