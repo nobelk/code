@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\RollingWindowStat\bin\Debug\netcoreapp1.1\RollingWindowStat.deps.json
+c:\Users\nobel\Documents\Code\RollingWindowStat\bin\Debug\netcoreapp1.1\RollingWindowStat.runtimeconfig.json
+c:\Users\nobel\Documents\Code\RollingWindowStat\bin\Debug\netcoreapp1.1\RollingWindowStat.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\RollingWindowStat\obj\Debug\netcoreapp1.1\RollingWindowStat.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\RollingWindowStat\bin\Debug\netcoreapp1.1\RollingWindowStat.dll
+c:\Users\nobel\Documents\Code\RollingWindowStat\bin\Debug\netcoreapp1.1\RollingWindowStat.pdb
+c:\Users\nobel\Documents\Code\RollingWindowStat\obj\Debug\netcoreapp1.1\RollingWindowStat.dll
+c:\Users\nobel\Documents\Code\RollingWindowStat\obj\Debug\netcoreapp1.1\RollingWindowStat.pdb
