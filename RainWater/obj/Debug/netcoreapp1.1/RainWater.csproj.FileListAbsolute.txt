@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\RainWater\bin\Debug\netcoreapp1.1\RainWater.deps.json
+c:\Users\nobel\Documents\Code\RainWater\bin\Debug\netcoreapp1.1\RainWater.runtimeconfig.json
+c:\Users\nobel\Documents\Code\RainWater\bin\Debug\netcoreapp1.1\RainWater.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\RainWater\bin\Debug\netcoreapp1.1\RainWater.dll
+c:\Users\nobel\Documents\Code\RainWater\bin\Debug\netcoreapp1.1\RainWater.pdb
+c:\Users\nobel\Documents\Code\RainWater\obj\Debug\netcoreapp1.1\RainWater.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\RainWater\obj\Debug\netcoreapp1.1\RainWater.dll
+c:\Users\nobel\Documents\Code\RainWater\obj\Debug\netcoreapp1.1\RainWater.pdb

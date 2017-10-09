@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\DungeonGame\bin\Debug\netcoreapp1.1\DungeonGame.deps.json
+c:\Users\nobel\Documents\Code\DungeonGame\bin\Debug\netcoreapp1.1\DungeonGame.runtimeconfig.json
+c:\Users\nobel\Documents\Code\DungeonGame\bin\Debug\netcoreapp1.1\DungeonGame.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\DungeonGame\bin\Debug\netcoreapp1.1\DungeonGame.dll
+c:\Users\nobel\Documents\Code\DungeonGame\bin\Debug\netcoreapp1.1\DungeonGame.pdb
+c:\Users\nobel\Documents\Code\DungeonGame\obj\Debug\netcoreapp1.1\DungeonGame.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\DungeonGame\obj\Debug\netcoreapp1.1\DungeonGame.dll
+c:\Users\nobel\Documents\Code\DungeonGame\obj\Debug\netcoreapp1.1\DungeonGame.pdb

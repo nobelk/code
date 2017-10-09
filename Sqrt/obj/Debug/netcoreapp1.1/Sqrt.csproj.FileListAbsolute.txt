@@ -1,0 +1,8 @@
+c:\Users\nobel\Documents\Code\Sqrt\bin\Debug\netcoreapp1.1\Sqrt.deps.json
+c:\Users\nobel\Documents\Code\Sqrt\bin\Debug\netcoreapp1.1\Sqrt.runtimeconfig.json
+c:\Users\nobel\Documents\Code\Sqrt\bin\Debug\netcoreapp1.1\Sqrt.runtimeconfig.dev.json
+c:\Users\nobel\Documents\Code\Sqrt\bin\Debug\netcoreapp1.1\Sqrt.dll
+c:\Users\nobel\Documents\Code\Sqrt\bin\Debug\netcoreapp1.1\Sqrt.pdb
+c:\Users\nobel\Documents\Code\Sqrt\obj\Debug\netcoreapp1.1\Sqrt.AssemblyInfo.cs
+c:\Users\nobel\Documents\Code\Sqrt\obj\Debug\netcoreapp1.1\Sqrt.dll
+c:\Users\nobel\Documents\Code\Sqrt\obj\Debug\netcoreapp1.1\Sqrt.pdb
