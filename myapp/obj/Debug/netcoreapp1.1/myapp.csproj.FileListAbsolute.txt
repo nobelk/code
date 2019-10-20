@@ -1,8 +1,0 @@
-c:\Users\nobel\Documents\Code\myapp\bin\Debug\netcoreapp1.1\myapp.deps.json
-c:\Users\nobel\Documents\Code\myapp\bin\Debug\netcoreapp1.1\myapp.runtimeconfig.json
-c:\Users\nobel\Documents\Code\myapp\bin\Debug\netcoreapp1.1\myapp.runtimeconfig.dev.json
-c:\Users\nobel\Documents\Code\myapp\bin\Debug\netcoreapp1.1\myapp.dll
-c:\Users\nobel\Documents\Code\myapp\bin\Debug\netcoreapp1.1\myapp.pdb
-c:\Users\nobel\Documents\Code\myapp\obj\Debug\netcoreapp1.1\myapp.AssemblyInfo.cs
-c:\Users\nobel\Documents\Code\myapp\obj\Debug\netcoreapp1.1\myapp.dll
-c:\Users\nobel\Documents\Code\myapp\obj\Debug\netcoreapp1.1\myapp.pdb
