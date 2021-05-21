@@ -6,15 +6,38 @@ import pyarrow.parquet as pq
 
 import dask.dataframe as dd
 from dask.diagnostics import ProgressBar
+from matplotlib import pyplot as plt
 
 
-csv_file = 'C:\\Users\\nobel\\source\\code\\python\\dask-test\\yellow_tripdata_2020-01.csv'
-parquet_file = 'C:\\Users\\nobel\\source\\code\\python\\dask-test\\yellow_tripdata_2020-01.parquet'
+csv_file = 'C:\\Users\\nobel\\source\\code\\python\\dask-test\\data\\yellow_tripdata_2020-01.csv'
+parquet_file = 'C:\\Users\\nobel\\source\\code\\python\\dask-test\\data\\yellow_tripdata_2020-01.parquet'
+parking_csv_file = 'C:\\Users\\nobel\\source\\code\\python\\dask-test\\data\\Parking_Violations_Issued_-_Fiscal_Year_2017.csv'
+
+def dask_test():
+    print("Starting dask test")
+    df = dd.read_csv(
+        parking_csv_file,
+        low_memory=False,
+        dtype={'Issuer Squad': 'object',
+       'Unregistered Vehicle?': 'float64',
+       'Violation Description': 'object',
+       'Violation Legal Code': 'object',
+       'Violation Post Code': 'object'})
+    missing_values = df.isnull().sum()
+    missing_count = ((missing_values/df.index.size)*100)
+    missing_count
+    
+    with ProgressBar():
+        missing_count_pct = missing_count.compute()
+    
+    columns_to_drop = missing_count_pct[missing_count_pct > 60].index    
+    with ProgressBar():
+        df_dropped = df.drop(columns_to_drop, axis=1).persist()
+    
+    print(missing_count_pct)
 
 def main():
-    print("Starting dask test")
-    df = dd.read_parquet(parquet_file)
-
+    dask_test()
 
 
 # Test writing parquet files
