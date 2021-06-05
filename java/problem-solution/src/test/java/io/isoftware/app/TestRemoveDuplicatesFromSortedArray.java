@@ -3,7 +3,7 @@ package io.isoftware.app;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class RemoveDuplicatesFromSortedArrayTest {
+public class TestRemoveDuplicatesFromSortedArray {
 
     @Test
     public void TestRemoveDuplicates(){

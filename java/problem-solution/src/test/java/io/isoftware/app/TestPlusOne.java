@@ -3,7 +3,7 @@ package io.isoftware.app;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class PlusOneTest {
+public class TestPlusOne {
 
     @Test
     public void TestPlusOne(){
